@@ -1,0 +1,35 @@
+/* Healing Playlist */
+.playlist-container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  
+  .playlist-header {
+    font-size: 1.8rem;
+    color: #8e3c56;
+    text-align: center;
+  }
+  
+  .song-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px;
+    margin: 10px 0;
+    background-color: #ffe4e9;
+    border-radius: 8px;
+  }
+  
+  .song-title {
+    font-size: 1.1rem;
+    color: #4a4a4a;
+  }
+  
+  .play-btn {
+    background-color: #ffb3c1;
+    padding: 10px;
+    border-radius: 25px;
+    color: white;
+  }
+  

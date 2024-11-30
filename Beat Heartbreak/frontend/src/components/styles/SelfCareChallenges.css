@@ -1,0 +1,40 @@
+/* Self-Care Challenges */
+.self-care-container {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .self-care-title {
+    font-size: 2rem;
+    color: #8e3c56;
+    text-align: center;
+  }
+  
+  .challenge-card {
+    padding: 15px;
+    border: 2px solid #ffd6d9;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    background-color: #ffe4e9;
+  }
+  
+  .challenge-card h3 {
+    margin: 0;
+    color: #4a4a4a;
+  }
+  
+  .challenge-card p {
+    margin: 10px 0 0;
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .start-challenge-btn {
+    display: block;
+    margin: 10px 0 0;
+    text-align: center;
+  }
+  

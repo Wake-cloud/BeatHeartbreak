@@ -1,0 +1,21 @@
+/* Mood Tracker */
+.mood-tracker-container {
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .mood-btn {
+    display: inline-block;
+    margin: 10px;
+    background-color: #ffd6d9;
+    padding: 15px;
+    border-radius: 50%;
+    font-size: 1rem;
+  }
+  
+  .mood-btn:hover {
+    background-color: #ff8fa3;
+  }
+  
